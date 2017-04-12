@@ -1,0 +1,9 @@
+Building SoftCoin
+
+See doc/readme-qt.rst for instructions on building SoftCoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of SoftCoin.
+
+See doc/build-*.txt for instructions on building SoftCoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of SoftCoin.
